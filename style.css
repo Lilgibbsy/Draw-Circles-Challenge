@@ -1,0 +1,26 @@
+html {
+  background-color: black;
+}
+canvas {
+  border: 1px solid white;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+body {
+  text-align: center;
+  margin: auto;
+  width: 800px;
+}
+span {
+  margin-left: 10px;
+}
+input {
+  width: 70px;
+}
+.titles {
+  margin-left: 80px;
+}
